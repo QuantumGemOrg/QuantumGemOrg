@@ -7,6 +7,9 @@
 - Official website: https://www.quantumgem.org
 - White Paper: https://www.quantumgem.org/WhitePaper.pdf
 - Official email: info@quantumgem.org
+- Twitter: https://twitter.com/QuantumGemOrg
+- Github: https://github.com/QuantumGemOrg
+- Discord: https://discord.gg/Tud9Yte8
 
 - Token name: QuantumGem (QGEM)
 - Max. supply: 500,000,000 QGEM
