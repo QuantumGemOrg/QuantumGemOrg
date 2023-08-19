@@ -10,6 +10,7 @@
 - Twitter: https://twitter.com/QuantumGemOrg
 - Github: https://github.com/QuantumGemOrg
 - Discord: https://discord.gg/Tud9Yte8
+- Facebook: https://www.facebook.com/profile.php?id=61550048171731
 
 - Token name: QuantumGem (QGEM)
 - Max. supply: 500,000,000 QGEM
