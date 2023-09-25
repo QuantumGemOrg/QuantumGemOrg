@@ -4,13 +4,14 @@
 - 💞️ I’m looking to collaborate on research initiatives related to superconductors and blockchain technology, as well as connect with experts in both fields to further the goals of the QuantumGem project.
 - 📫 How to reach me  email at info@quantumgem.org. I'm open to discussions, partnerships, and collaborations that align with the vision of QuantumGem (QGEM) and its mission to advance scientific understanding and innovation.
 
-- Official website: https://www.quantumgem.org
-- White Paper: https://www.quantumgem.org/WhitePaper.pdf
+- Official website: https://quantumgem.org
 - Official email: info@quantumgem.org
+- White Paper: https://quantumgem.org/WhitePaper.pdf
 - Twitter: https://twitter.com/QuantumGemOrg
-- Github: https://github.com/QuantumGemOrg
-- Discord: https://discord.gg/Tud9Yte8
 - Facebook: https://www.facebook.com/profile.php?id=61550048171731
+- Github: https://github.com/QuantumGemOrg
+- Discord: https://discord.gg/NY9666DzZ6
+- Telegram: https://t.me/+mZCKhHnlwuAxZjF
 
 - Token name: QuantumGem (QGEM)
 - Max. supply: 500,000,000 QGEM
